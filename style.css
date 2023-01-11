@@ -35,7 +35,14 @@
 
 /* nav */
 
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
 nav a{
     text-decoration: none;
     color:black ;
+    margin-right: 10px;
 }
+
